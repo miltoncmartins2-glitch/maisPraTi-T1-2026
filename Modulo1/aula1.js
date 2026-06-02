@@ -1,1 +1,0 @@
-let mes = parseInt(prompt('Digite o número do mês (1 a 12):'))

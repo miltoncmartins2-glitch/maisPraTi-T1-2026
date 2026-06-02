@@ -1,1 +1,1 @@
-for( let i = 1 =< linhas; i++){
+let fahrenheit = ((celcius * 9) / 5) * 32;
